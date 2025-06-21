@@ -1,80 +1,66 @@
-<h1 align="center">Hi, I'm Dheemanth M 👋</h1>
-<p align="center">
-  <b>Fullstack Developer | AI Explorer | Real-time Systems Builder</b><br/>
-  Final-year CS student at BMSCE (2026 batch) — I build production-grade apps that sync, scale, and sparkle ⚡
-</p>
+# 👋 Hey, I’m Dheemanth M
+
+### 🧑‍💻 Backend-First Fullstack Developer | Building Scalable, Real-Time Systems
+
+I'm a final-year Computer Science student at BMSCE (2026) with a strong focus on backend systems, infrastructure, and AI-powered fullstack applications. I enjoy working on high-impact products and building end-to-end features from database to deployment.
 
 ---
 
-## 💼 About Me
+## 🔧 Tech Stack
 
-- 🔭 Currently working on: [DheeSpace](https://dheespace.vercel.app) – Notion x Google Docs, reimagined with AI + multiplayer
-- 🛠️ Specialized in fullstack web apps, real-time infra, scalable backend architecture
-- 🧠 Passionate about system design, AI integrations, and building beautiful, powerful UIs
-- 📚 Learning: Cloud infra (Docker, DevOps), DSA (250+ LeetCode), deeper backend scaling
-
----
-
-## 🧠 Projects
-
-### 🚀 [DheeSpace](https://dheespace.vercel.app)
-> ✨ Real-time Collaborative AI Document Platform  
-> Tech: `Next.js 15`, `Firebase`, `Liveblocks`, `Gemini API`, `Clerk`, `TailwindCSS`, `Puppeteer`
-
-- Notion + Google Docs alternative with AI Assistant & Translate (Gemini Pro 1.5)
-- Live multiplayer editing (cursors, avatars) via Liveblocks + Yjs
-- Version history with diff/restore, public docs with expiry, and role-based access
-- Export as PDF/DOCX, built with modern Gen-Z UI
-- 🔗 [Live Demo](https://dheespace.vercel.app) • [Code](https://github.com/dheemanthm2004/DheeSpace.)
+**Languages:** TypeScript, Python, C++, SQL  
+**Frontend:** React.js, Next.js (App Router), Tailwind CSS, ShadCN, Framer Motion  
+**Backend:** Node.js, Express, PostgreSQL, Redis, Firebase (Auth + Firestore), BullMQ  
+**Infra/Tools:** Docker, Railway, Vercel, Swagger, WebSockets, CRON, Clerk, Git, Puppeteer, Twilio, Nodemailer
 
 ---
 
-### 🔔 [DheeNotifications](https://dheenotifications.vercel.app)
-> 🔧 Scalable Notification System (Email, SMS, In-App) with full analytics  
-> Tech: `Node.js`, `Express`, `Redis`, `BullMQ`, `PostgreSQL`, `Next.js`, `TailwindCSS`, `Swagger`, `Docker`
+## 🚀 Projects
 
-- Queued + scheduled notifications with retry logic via Redis + BullMQ
-- APIs for Email (Nodemailer), SMS (Twilio), In-App (WebSocket)
-- Swagger-documented API, with detailed delivery logs + Chart.js-based analytics
-- End-to-end Dockerized deployment with Railway + Vercel
-- 🔗 [Live Demo](https://dheenotifications.vercel.app) • [Code](https://github.com/dheemanthm2004/notification_system)
+### 📄 [DheeSpace](https://dheespace.vercel.app)
+> Real-time collaborative document editor with AI integration.
+
+- Multiplayer editing with **Liveblocks + Yjs**
+- Gemini Pro 1.5-powered **AI Assist + Translation**
+- Version history with diff + restore, secure sharing with auto-expiry
+- Role-based access via Clerk, deployed on Vercel  
+🔗 [Code](https://github.com/dheemanthm2004/DheeSpace)
 
 ---
 
-## 🛠️ Tech Stack
+### 📢 [DheeNotifications](https://dheenotifications.vercel.app)
+> Scalable, multi-channel notification delivery platform.
 
-**Frontend:**  
-`React` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `ShadCN` · `Chart.js`
-
-**Backend:**  
-`Node.js` · `Express` · `PostgreSQL` · `Redis` · `Firebase` · `BullMQ` · `WebSockets` · `Clerk Auth`
-
-**Dev Tools / Infra:**  
-`Docker` · `Vercel` · `Railway` · `Swagger` · `Puppeteer` · `Git` · `Twilio` · `CRON`
+- Email, SMS, and In-App notifications using **Twilio, Nodemailer**
+- Built on **Redis + BullMQ** with retry logic, backoff, CRON scheduling
+- REST APIs documented with Swagger, status tracking in PostgreSQL
+- Full frontend dashboard: filterable logs, live analytics  
+🔗 [Code](https://github.com/dheemanthm2004/notification_system)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheemanthm2004&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=dheemanthm2004&theme=react&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheemanthm2004&layout=compact&theme=react&hide_border=true" width="50%"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheemanthm2004&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheemanthm2004&layout=compact)
 
 ---
 
-## 📬 Contact Me
+## 🌱 Currently Learning
 
-- 📧 Email: [dheemanthm.official@gmail.com](mailto:dheemanthm.official@gmail.com)
-- 💼 Resume: [Click to View PDF](https://github.com/dheemanthm2004/dheemanthm2004/raw/main/DheemanthM_Resume.pdf)
-- 🌐 Portfolio: [dheespace.vercel.app](https://dheespace.vercel.app)
-- 🧾 LinkedIn: [linkedin.com/in/dheemanth-madaiah-484a43327](https://linkedin.com/in/dheemanth-madaiah-484a43327)
+- Deepening backend infrastructure: Redis internals, scalable queues
+- System Design for large-scale backend architectures
+- Enhancing DSA skills on LeetCode (250+ problems)
 
 ---
 
-<p align="center">
-  <i>“Code with clarity. Deploy with confidence. Learn like a noob. Ship like a pro.”</i>
-</p>
+## 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dheemanth-madaiah-484a43327/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:dheemanthm.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=vercel&labelColor=black)](https://dheespace.vercel.app)
+
+---
+
+> ⚡ Fun Fact: I built most of my projects from scratch with real-time systems and production-ready features — not tutorials.
+
