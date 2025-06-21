@@ -24,7 +24,7 @@ I'm a final-year Computer Science student at BMSCE (2026) with a strong focus on
 - Gemini Pro 1.5-powered **AI Assist + Translation**
 - Version history with diff + restore, secure sharing with auto-expiry
 - Role-based access via Clerk, deployed on Vercel  
-🔗 [Code](https://github.com/dheemanthm2004/DheeSpace)
+🔗 [Code](https://github.com/dheemanthm2004/DheeSpace.)
 
 ---
 
