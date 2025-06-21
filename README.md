@@ -31,7 +31,7 @@ I'm a final-year Computer Science student at BMSCE (2026) with a strong focus on
 ### 📢 [DheeNotifications](https://dheenotifications.vercel.app)
 > Scalable, multi-channel notification delivery platform.
 
-- Email, SMS, and In-App notifications using **Twilio, Nodemailer**
+- Email, SMS, and Email using **Twilio, SMTP**
 - Built on **Redis + BullMQ** with retry logic, backoff, CRON scheduling
 - REST APIs documented with Swagger, status tracking in PostgreSQL
 - Full frontend dashboard: filterable logs, live analytics  
