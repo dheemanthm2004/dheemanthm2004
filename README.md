@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/dheemanth-madaiah-484a43327/">LinkedIn</a> • 
   <a href="mailto:dheemanthmadaiah@gmail.com">Email</a> • 
   <a href="https://leetcode.com/u/7e231YE1V6/">LeetCode</a> • 
-  <a href="https://dheemanthm2004.github.io/">Portfolio</a>
+  <a href="https://dheem.vercel.app/">Portfolio</a>
 </p>
 
 <hr/>
