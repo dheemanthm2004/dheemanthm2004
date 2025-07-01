@@ -96,13 +96,7 @@
 - **B.E. in Computer Science & Engineering**  
   BMS College of Engineering (2022–2026), Bangalore, India
 
-<hr/>
-## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheemanthm2004&show_icons=true&theme=tokyonight" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheemanthm2004&theme=tokyonight" height="155"/>
-</p>
 
 <hr/>
 
@@ -116,10 +110,25 @@
       <sub><b>LeetCode: 300+ Problems Solved</b></sub>
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=dheemanthm2004&theme=flat&column=4" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dheemanthm2004&show_icons=true&theme=tokyonight" />
+      <br/>
+      <sub><b>GitHub Stats</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheemanthm2004&theme=tokyonight" />
+      <br/>
+      <sub><b>GitHub Streak</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheemanthm2004&layout=compact&theme=tokyonight" />
+      <br/>
+      <sub><b>Top Languages</b></sub>
     </td>
   </tr>
 </table>
+
 
 <hr/>
 
@@ -130,19 +139,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/dheemanth-madaiah-484a43327/)
 
 
-<hr/>
-
-
-<details>
-  <summary>More about my coding philosophy 👀</summary>
-
-  - “Elegant code is both readable and robust.”
-  - “If it scales in production and delights users, that’s a win.”
-  - “Every project is a canvas for learning and craftsmanship.”
-</details>
-
-<hr/>
-
-<p align="center">
-  <sub>“Build things that scale. Ship things that matter.”</sub>
-</p>
