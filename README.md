@@ -40,7 +40,7 @@
   </td>
   <td width="33%">
     <a href="https://dheenotifications.vercel.app/">
-      <img src="https://img.shields.io/badge/Live_Dashboard-Vercel-000?style=for-the-badge&logo=vercel" alt="DheeNotifications Live"/>
+      <img src="https://img.shields.io/badge/Live_App-Vercel-000?style=for-the-badge&logo=vercel" alt="DheeNotifications Live"/>
     </a>
     <br/>
     <b>DheeNotifications</b>
