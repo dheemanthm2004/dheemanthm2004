@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://lnk.ink/Rm7MD" alt="Dheemanth Madaiah" width="160" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(15, 23, 42, 0.1);"/>
-</p>
 
 <h1 align="center">Dheemanth Madaiah</h1>
 <p align="center">
@@ -81,7 +78,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,tailwind,prisma,vercel,git,github" height="32"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=ai,figma,linux,py,md" height="32"/>
+  <img src="https://skillicons.dev/icons?i=ai,py" height="32"/>
 </p>
 
 - **Frontend:** Next.js (App Router), React, Tailwind, Framer Motion, ShadCN
