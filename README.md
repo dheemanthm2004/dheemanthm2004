@@ -15,7 +15,7 @@
 - 🎓 **CS Undergrad** @ **BMS College of Engineering** (2022–2026), Bangalore, India 🇮🇳
 - 💡 I build scalable, AI-powered, real-time web apps with a focus on developer experience & product polish.
 - 🚀 Passionate about the intersection of **AI, system design, cloud-native architecture, and collaborative UX**.
-- 🏆 Over **300 LeetCode problems** solved |Open Source Contributor | Always Learning
+- 🏆 Over **300 LeetCode problems** solved 
 
 <hr/>
 
