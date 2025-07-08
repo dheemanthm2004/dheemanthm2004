@@ -105,7 +105,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/7e231YE1V6?theme=unicorn&ext=contest"/>
+      <img src="https://leetcard.jacoblin.cool/dhee_vampire?theme=unicorn&ext=contest"/>
       <br/>
       <sub><b>LeetCode: 300+ Problems Solved</b></sub>
     </td>
