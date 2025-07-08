@@ -4,7 +4,7 @@
   <b>Full Stack Developer • AI Enthusiast • Building Next-Gen Web Platforms</b><br/>
   <a href="https://www.linkedin.com/in/dheemanth-madaiah-484a43327/">LinkedIn</a> • 
   <a href="mailto:dheemanthmadaiah@gmail.com">Email</a> • 
-  <a href="https://leetcode.com/u/7e231YE1V6/">LeetCode</a> • 
+  <a href="https://leetcode.com/u/dhee_vampire/">LeetCode</a> • 
   <a href="https://dheemanthmadaiah.vercel.app/">Portfolio</a>
 </p>
 
