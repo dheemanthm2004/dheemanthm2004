@@ -15,7 +15,7 @@
 - 🎓 **CS Undergrad** @ **BMS College of Engineering** (2022–2026), Bangalore, India 🇮🇳
 - 💡 I build scalable, AI-powered, real-time web apps with a focus on developer experience & product polish.
 - 🚀 Passionate about the intersection of **AI, system design, cloud-native architecture, and collaborative UX**.
-- 🏆 Over **300 LeetCode problems** solved 
+- 🏆 Over **300+ LeetCode problems** solved 
 
 <hr/>
 
@@ -135,7 +135,7 @@
 ## 💬 Let's Connect
 
 - 📧 [dheemanthmadaiah@gmail.com](mailto:dheemanthmadaiah@gmail.com)
-- 🌏 [Portfolio](https://dheemanthm2004.github.io/)
+- 🌏 [Portfolio](https://dheemanthmadaiah.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dheemanth-madaiah-484a43327/)
 
 
