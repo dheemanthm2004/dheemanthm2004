@@ -15,7 +15,7 @@
 - 🎓 **CS Undergrad** @ **BMS College of Engineering** (2022–2026), Bangalore, India 🇮🇳
 - 💡 I build scalable, AI-powered, real-time web apps with a focus on developer experience & product polish.
 - 🚀 Passionate about the intersection of **AI, system design, cloud-native architecture, and collaborative UX**.
-- 🏆 Over **300+ LeetCode problems** solved 
+- 🏆 Over **400+ LeetCode problems** solved 
 
 <hr/>
 
@@ -107,7 +107,7 @@
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/dhee_vampire?theme=unicorn&ext=contest"/>
       <br/>
-      <sub><b>LeetCode: 300+ Problems Solved</b></sub>
+      <sub><b>LeetCode: 400+ Problems Solved</b></sub>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=dheemanthm2004&show_icons=true&theme=tokyonight" />
